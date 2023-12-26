@@ -1,6 +1,6 @@
 namespace DesafioProjetoHospedagem.Models;
 
-public class Pessoa
+public class Pessoa : Reserva
 {
     public Pessoa() { }
 
